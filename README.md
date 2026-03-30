@@ -1,14 +1,16 @@
-# COI-based Metagenomics of Insect Communities in Lettuce Flower Strips
+# Comprehensive Project Information
 
-## Overview
-This repository contains data and analysis related to the NCBI BioProject PRJNA1405534, which focuses on the metagenomic sequencing of insect communities found in lettuce flower strips. The objective of this bioproject is to understand the diversity and ecological roles of insects associated with these ecosystems.
+## NCBI BioProject
+This project is associated with NCBI BioProject [PRJNA1405534](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1405534).
+
+## Methodology
+- Describe the methodologies used in the research, including sampling procedures, data collection techniques, and analytical methods employed.
 
 ## Repository Structure
-- `data/`: Contains raw and processed data files relevant to the project.
-- `analysis/`: Includes scripts and notebooks for analysis of the metagenomic data.
-- `documentation/`: Contains detailed descriptions of the methods used, results obtained, and other relevant documentation.
-- `results/`: Stores the output of analyses including figures and tables.
-- `README.md`: This file provides an overview of the project and the repository's structure.
+- Outline the structure of the repository, detailing the purpose of each folder and file contained within.
 
-## Reference
-For more information about the BioProject, please visit the [NCBI BioProject page](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1405534).
+## Usage Instructions
+- Provide clear instructions on how to utilize the resources in this repository. Include steps for installation, configuration, and execution, if applicable.
+
+## Citations
+- Include citations for all relevant publications, datasets, and software tools used throughout the study.
